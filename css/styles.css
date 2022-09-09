@@ -1,1 +1,15 @@
 /* Add custom css styles here */
+footer {
+    color: white;
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+}
+
+header {
+    height: 400px;
+}
+
+.about {
+    background-color: lightgray;
+}
